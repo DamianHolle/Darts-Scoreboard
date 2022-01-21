@@ -23,7 +23,7 @@ public class Main {
         score_player1.setEditable(false);
         score_player2.setEditable(false);
 
-
+        //test
         //put this in a game loop somewhere?
         score_player1.setText(String.valueOf(player1_score));
         score_player2.setText(String.valueOf(player2_score));
